@@ -23,5 +23,3 @@ for (let j = 2; j < number; j++) {
     }
 }
 console.log('genap: '+ genap.join("+") +'='+ resultGenap);
-
-
